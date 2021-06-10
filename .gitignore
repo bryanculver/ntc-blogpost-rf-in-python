@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Core Concept Run Output
+core-concept-run-output.xml
+log.html
+report.html
+
+# Continued Concepts Output Runs
+output/*
